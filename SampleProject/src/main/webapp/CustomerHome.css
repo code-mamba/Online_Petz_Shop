@@ -1,0 +1,12 @@
+
+body{
+	background-image: url("images/cat.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.picture_one{
+	padding-left: 500px
+}
+.picture_two{
+	padding-left: 500px
+}

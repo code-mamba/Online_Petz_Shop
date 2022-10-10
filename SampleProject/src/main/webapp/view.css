@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("images/Data.jpg");
+	background-size:cover;
+}
+#button1{
+	margin-left: 300px
+}

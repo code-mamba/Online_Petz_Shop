@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+
+
+
+<Resource url="jdbc:mysql://root@127.0.0.1:3306/DNA_petz" driverClassName="com.mysql.cj.jdbc.Driver" password="Aspire@123" username="root" type="javax.sql.DataSource" auth="Container" name="jdbc/DNA_petz"/>
+
+
+
+</Context>

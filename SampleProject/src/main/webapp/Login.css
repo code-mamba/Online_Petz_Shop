@@ -1,0 +1,16 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+
+}
+body{
+	background-image: url("images/beagle.jpg");
+	background-size: cover;
+	
+}
+
+.form{
+	margin-bottom: 50px;
+}
